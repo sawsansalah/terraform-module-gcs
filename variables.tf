@@ -1,11 +1,13 @@
 variable "bucket_name" {
   description = "Google Cloud Storage (GCS) bucket Name."
   type        = string
+  default     = "my-bucket-33333"
 }
 
 variable "project_id" {
   description = "GCS Project ID."
   type        = string
+  default     = "wise-resolver-422510-b6"
 }
 
 variable "gcs_location" {
@@ -32,6 +34,7 @@ EOF
 variable "labels" {
   description = "Labels to assign on the GCS bucket."
   type        = map(any)
+  default     = "test"
 }
 
 variable "enable_versioning" {

@@ -28,6 +28,7 @@ variable "labels" {
    default     = {
     env = "dev"
   }
+}
 variable "storage_class" {
   description = <<EOF
 The Storage class of the GCS bucket.

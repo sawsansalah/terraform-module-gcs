@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "wise-resolver-422510-b6",
+  "private_key_id": "c420b25de02e64d6e67262aa5c19cdb64f7bf991",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCX4vWeiHeDGwbK\nxoNXKQiFHsqhSokO1YETGm5AS/kv+Ninpw6oLj1bfaq6LPt7uMTK5Yz397rjjLEr\nOStQeA1+DTlcOO6QSie5Ok8FOEfS++CAz6Dn0zc2Sbt+4yBI/jIowlpo+3WtZ9EL\nwPN2CFJvUfTdI+ATRpPDnHxsa3+JlRWz/iOjQlft8GI7zMRc8CLAxHHbJS1k4v4i\nICtj0+Le98CRnHvyO9bFHlK/7f4xUd+FZWZe2bKD+uT55qNITjHxlAYat+eIMReR\n6vXE/EPArU7TcT2+nzxfVh/zuPck389xBqiKwlm8yXb0gSWFUCrMhrR3UIn4sf31\nT7Lvn+fRAgMBAAECggEAIXiONJCxt5Zb3ZE4DdvYyQ8zS65zfC2gK1/KdohXglMW\nGYIGyJiiBFix6CO0Crx5v5WtBlMVIAKX42TOjwXZwVK0NobESc9RqC+5jLatm0jO\n3UwEEzpYQzIl660tJvC/iHxl9JcfhGZpqqurazIjymzW52m5vj2yH+wK/lCFM0Hs\nipa5IGvfJV3xSB9++tg1nDf+gOs1DexXswIBuPaZj6Qmy3wnex1+0OsrDjYSsz6g\niPWCXrEG0Np2BnG+1wS78Xf8+v3e3Qd6xxbIkKi/XUS/TDoMZdwpkBBA6yD0VTHS\nGEdQih2Of+8RTvKM7N6HqlB1wlCgabiNso8ZF4UuPQKBgQDRvxvvw4tIKnAn9nTl\neWati/Uz0YsU3jeIeYOFDeoTsoSc59OO7RiCrmVlQjJWBewOaFSour+5GReyhug6\nguC0Wf8usVJU6dRSEwjtKm50SxMPJxUwFGPHtqykJa9GSEmOMFvxJDHPFdbITfYn\nRPj37wsjjJhsKX1r5h817sDERQKBgQC5YXZpr8+sMHoz4SuE2oUhDfGmBvvQY4M0\n5nL0ZD0nyPAdsQ/sL8X49SnQkbrX1ToZoxJJNKuVHk6oQsHV1CkyxJ6PfWBYoEeQ\n5csSUqlbFuRK4qJaAKu/9DMBQD4o6mkKSaRjGR54RUunBhZcH75koOudIkhcO7/s\nUka1lPu8HQKBgEQI43zwRtuPuHWeAej1ahLdFRpL2/tW4ViJYdnk24qsG0vx/rOb\nwJmTDBy+TimNHjbGLL/WY54cv40PKYDhNxYJIzb4GaalelNtDTYwz0c1mucNXFgO\nJReA75sHBkWb6RAQK6KahPWRNewfLbsrKj7x8QEE9+QNyTsYmAMcgLapAoGANOGn\njLh5Tk453ejCqFBJn8dBgrIFTUnF2OZQLoUVqO66CE5FE4QBPmZ5OiUIHp+VxlBt\nW/Kpa41MtNTuRFgUNIZAEQCb5kw6fgv/JMftxa0/DFmgJHqCg+xeTGIOGU/dDPE6\n8oXs2jQyQ4AKCteHUV9SNu3bpGvq8Lf7sbrBIMUCgYEAhP74z1WlEPNjqGMeXNdm\nAhl9HIOQxZGXAqKA6bs3d3QhpfoiR+CGiH5tJwkhgKN0zEJbdxDZmmnRORK9V8zp\n0GXiqlq/MWvAoF4iWm9+NTdE/8SwKUpjcUU3D+WnmUbyGbc2PLUowWEtOibm7wRy\nRIFyDxyA4PXHuV9diysHvdI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terranetes-controller@wise-resolver-422510-b6.iam.gserviceaccount.com",
+  "client_id": "117832137503535736297",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terranetes-controller%40wise-resolver-422510-b6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

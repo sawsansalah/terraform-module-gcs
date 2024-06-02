@@ -22,6 +22,11 @@ variable "force_destroy" {
   default     = false
 }
 
+variable "labels" {
+  description = "Labels to assign on the GCS bucket."
+  type        = map(any)
+  key1        = "dev" 
+}
 variable "storage_class" {
   description = <<EOF
 The Storage class of the GCS bucket.
